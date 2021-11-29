@@ -1,6 +1,7 @@
 # Login com o google
 
 O objetivo do projeto é realizar é buscar os dados do usuário com OAuth2 do google.
+![gif](https://user-images.githubusercontent.com/55710708/143943034-cc4073be-bd30-4247-a947-70f7c2282d29.gif)
 
 ## Passos
 - Criando App
@@ -41,6 +42,7 @@ npm install @react-native-community/google-signin @react-navigation/native @reac
 ## Criar projeto no Firebase
 
 Após criar um projeto no firebase e criar o app é necessário substituir o arquivo na pasta `android/app`
+![image 1](https://user-images.githubusercontent.com/55710708/143943573-3c0cfe3c-4510-4797-88d5-6689c1f7e656.png)
 
 ## Buscar dados
  
